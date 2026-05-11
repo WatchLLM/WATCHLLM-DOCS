@@ -1,3 +1,32 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WatchLLM/.github/refs/heads/main/edited%20(1).png" width="800" alt="WatchLLM Banner" />
+</p>
+
+<h1 align="center">WatchLLM</h1>
+
+<h3 align="center">
+  AI agent reliability testing infrastructure. Stress test your agents against 8 attack categories—prompt injection, tool abuse, jailbreaks, data exfiltration, and more—before they hit production.
+</h3>
+
+<p align="center">
+  <strong>Observability, evaluation, and adversarial testing platform for LLM agents.</strong><br>
+  Ship reliable, secure, and debuggable agentic systems.
+</p>
+
+<p align="center">
+  <a href="https://watchllm.dev">Website</a> • 
+  <a href="https://watchllm.dev/docs">Documentation</a>
+</p>
+
+<div align="center">
+  
+  [![GitHub Stars](https://img.shields.io/github/stars/kaadipranav/watchllm.dev?style=flat-square&logo=github)](https://github.com/kaadipranav/watchllm.dev)
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
+  [![Python](https://img.shields.io/badge/Python-Ready-blue.svg)](https://www.python.org/)
+
+</div>
+
 Welcome to the official documentation repository for WatchLLM. 
 
 This repository contains all public-facing technical documentation, API specifications, and architectural guidelines required to deeply integrate WatchLLM into your agentic infrastructure.
