@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/WatchLLM/.github/refs/heads/main/edited%20(1).png" width="800" alt="WatchLLM Banner" />
 </p>
 
-<h1 align="center">WatchLLM</h1>
-
 <h3 align="center">
   AI agent reliability testing infrastructure. Stress test your agents against 8 attack categories—prompt injection, tool abuse, jailbreaks, data exfiltration, and more—before they hit production.
 </h3>
@@ -26,6 +24,8 @@
   [![Python](https://img.shields.io/badge/Python-Ready-blue.svg)](https://www.python.org/)
 
 </div>
+
+----
 
 Welcome to the official documentation repository for WatchLLM. 
 
